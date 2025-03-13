@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Dólar Estadounidense a Peso Colombiano c",
+  "Type": "Screen",
+  "Id": "slu1XZxCDUSYMIjigQzMSA",
+  "Reference": "wPjDqxuGMU6Dr--n38mabg/slu1XZxCDUSYMIjigQzMSA",
+  "ParentRef": "wPjDqxuGMU6Dr--n38mabg/el_9gWhquEewAgfQnhOhyQ",
+  "Created": "2025-03-13T00:48:40.0458787Z",
+  "Updated": "2025-03-13T00:48:40.0458787Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

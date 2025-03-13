@@ -1,0 +1,137 @@
+<Activity mc:Ignorable="sap sap2010" x:Class="Main" VisualBasic.Settings="{x:Null}" sap2010:WorkflowViewState.IdRef="ActivityBuilder_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:uix="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TextExpression.NamespacesForImplementation>
+    <sco:Collection x:TypeArguments="x:String">
+      <x:String>System.Activities</x:String>
+      <x:String>System.Activities.Statements</x:String>
+      <x:String>System.Activities.Expressions</x:String>
+      <x:String>System.Activities.Validation</x:String>
+      <x:String>System.Activities.XamlIntegration</x:String>
+      <x:String>Microsoft.VisualBasic</x:String>
+      <x:String>Microsoft.VisualBasic.Activities</x:String>
+      <x:String>System</x:String>
+      <x:String>System.Collections</x:String>
+      <x:String>System.Collections.Generic</x:String>
+      <x:String>System.Collections.ObjectModel</x:String>
+      <x:String>System.Data</x:String>
+      <x:String>System.Diagnostics</x:String>
+      <x:String>System.Drawing</x:String>
+      <x:String>System.IO</x:String>
+      <x:String>System.Linq</x:String>
+      <x:String>System.Net.Mail</x:String>
+      <x:String>System.Xml</x:String>
+      <x:String>System.Xml.Linq</x:String>
+      <x:String>UiPath.Core</x:String>
+      <x:String>UiPath.Core.Activities</x:String>
+      <x:String>System.Windows.Markup</x:String>
+      <x:String>GlobalVariablesNamespace</x:String>
+      <x:String>GlobalConstantsNamespace</x:String>
+      <x:String>System.Runtime.Serialization</x:String>
+      <x:String>UiPath.UIAutomationCore.Contracts</x:String>
+      <x:String>UiPath.UIAutomationNext.Enums</x:String>
+      <x:String>UiPath.UIAutomationNext.Models</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities</x:String>
+      <x:String>UiPath.Shared.Activities</x:String>
+      <x:String>UiPath.Platform.ObjectLibrary</x:String>
+      <x:String>UiPath.Platform.SyncObjects</x:String>
+      <x:String>UiPath.UIAutomationNext.Activities.Models</x:String>
+      <x:String>System.ComponentModel</x:String>
+      <x:String>System.Reflection</x:String>
+      <x:String>System.Linq.Expressions</x:String>
+    </sco:Collection>
+  </TextExpression.NamespacesForImplementation>
+  <TextExpression.ReferencesForImplementation>
+    <sco:Collection x:TypeArguments="AssemblyReference">
+      <AssemblyReference>Microsoft.VisualBasic</AssemblyReference>
+      <AssemblyReference>mscorlib</AssemblyReference>
+      <AssemblyReference>PresentationCore</AssemblyReference>
+      <AssemblyReference>PresentationFramework</AssemblyReference>
+      <AssemblyReference>System</AssemblyReference>
+      <AssemblyReference>System.Activities</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.TypeConverter</AssemblyReference>
+      <AssemblyReference>System.Core</AssemblyReference>
+      <AssemblyReference>System.Data</AssemblyReference>
+      <AssemblyReference>System.Data.Common</AssemblyReference>
+      <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
+      <AssemblyReference>System.Drawing</AssemblyReference>
+      <AssemblyReference>System.Drawing.Common</AssemblyReference>
+      <AssemblyReference>System.Drawing.Primitives</AssemblyReference>
+      <AssemblyReference>System.Linq</AssemblyReference>
+      <AssemblyReference>System.Net.Mail</AssemblyReference>
+      <AssemblyReference>System.ObjectModel</AssemblyReference>
+      <AssemblyReference>System.Private.CoreLib</AssemblyReference>
+      <AssemblyReference>System.Xaml</AssemblyReference>
+      <AssemblyReference>System.Xml</AssemblyReference>
+      <AssemblyReference>System.Xml.Linq</AssemblyReference>
+      <AssemblyReference>UiPath.System.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.UiAutomation.Activities</AssemblyReference>
+      <AssemblyReference>WindowsBase</AssemblyReference>
+      <AssemblyReference>UiPath.Studio.Constants</AssemblyReference>
+      <AssemblyReference>System.Private.ServiceModel</AssemblyReference>
+      <AssemblyReference>System.Private.DataContractSerialization</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Formatters</AssemblyReference>
+      <AssemblyReference>System.Runtime.Serialization.Primitives</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationCore</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
+      <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
+      <AssemblyReference>UiPath.Platform</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.EventBasedAsync</AssemblyReference>
+      <AssemblyReference>System.ComponentModel</AssemblyReference>
+      <AssemblyReference>System.ComponentModel.Primitives</AssemblyReference>
+      <AssemblyReference>System.Reflection.DispatchProxy</AssemblyReference>
+      <AssemblyReference>System.Reflection.TypeExtensions</AssemblyReference>
+      <AssemblyReference>System.Reflection.Metadata</AssemblyReference>
+      <AssemblyReference>System.Console</AssemblyReference>
+      <AssemblyReference>System.Security.Permissions</AssemblyReference>
+      <AssemblyReference>System.Configuration.ConfigurationManager</AssemblyReference>
+      <AssemblyReference>System.Memory</AssemblyReference>
+      <AssemblyReference>System.Private.Uri</AssemblyReference>
+      <AssemblyReference>System.Collections</AssemblyReference>
+      <AssemblyReference>System.Collections.NonGeneric</AssemblyReference>
+      <AssemblyReference>System.Linq.Expressions</AssemblyReference>
+    </sco:Collection>
+  </TextExpression.ReferencesForImplementation>
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="633.6000000000001,488" sap2010:WorkflowViewState.IdRef="Sequence_3">
+    <sap:WorkflowViewStateService.ViewState>
+      <scg:Dictionary x:TypeArguments="x:String, x:Object">
+        <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+      </scg:Dictionary>
+    </sap:WorkflowViewStateService.ViewState>
+    <Sequence DisplayName="TRM" sap:VirtualizedContainerService.HintSize="516.8,718.4" sap2010:WorkflowViewState.IdRef="Sequence_2">
+      <sap:WorkflowViewStateService.ViewState>
+        <scg:Dictionary x:TypeArguments="x:String, x:Object">
+          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+          <x:Boolean x:Key="IsPinned">False</x:Boolean>
+        </scg:Dictionary>
+      </sap:WorkflowViewStateService.ViewState>
+      <uix:NApplicationCard AttachMode="ByInstance" CloseMode="Never" DisplayName="Edge Dólar Estadounidense a Peso Colombiano c" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="483.2,658.4" sap2010:WorkflowViewState.IdRef="NApplicationCard_4" InteractionMode="DebuggerApi" ScopeGuid="ef33d2e3-592a-4240-91db-7698384aa5ae" Version="V2">
+        <uix:NApplicationCard.Body>
+          <ActivityAction x:TypeArguments="x:Object">
+            <ActivityAction.Argument>
+              <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
+            </ActivityAction.Argument>
+            <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,418.4" sap2010:WorkflowViewState.IdRef="Sequence_6">
+              <Sequence.Variables>
+                <Variable x:TypeArguments="x:String" Name="vStrdolar" />
+              </Sequence.Variables>
+              <sap:WorkflowViewStateService.ViewState>
+                <scg:Dictionary x:TypeArguments="x:String, x:Object">
+                  <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                </scg:Dictionary>
+              </sap:WorkflowViewStateService.ViewState>
+              <uix:NGetText DisplayName="Get Text 'COP 4.155,51'" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="416,189.6" sap2010:WorkflowViewState.IdRef="NGetText_1" ScopeIdentifier="ef33d2e3-592a-4240-91db-7698384aa5ae" TextString="[vStrdolar]" Version="V4">
+                <uix:NGetText.Target>
+                  <uix:TargetAnchorable BrowserURL="cuex.com/es/usd-cop" CVScreenId="c00d533e-1bf6-47dd-b179-fb0ddf869df9" ContentHash="JysyTuR_iUaAOeCoy8nAxA" CvElementArea="979, 378, 31, 32" CvTextArea="772, 376, 204, 33" CvTextArgument="COP 4.155,51" CvType="ArrowButton" DesignTimeRectangle="758, 361, 260, 63" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='section-content' tag='BUTTON' type='button' class='btn btn-default dropdown-toggle exchange-dropdown exchange-to-noborder notranslate' /&gt;" Guid="eae7ff3e-cb9a-4f97-a37a-22561b591ea0" InformativeScreenshot="20ad3406b88c706b4c1dff959f1936a9.png" Reference="wPjDqxuGMU6Dr--n38mabg/KOqvguIUBU2yqrRvk9RErQ" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Dólar Estadounidense a Peso Colombiano conversión - CUEX' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" />
+                </uix:NGetText.Target>
+              </uix:NGetText>
+              <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="416,168.8" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;El dolar esta a: &quot; + vStrdolar]" />
+            </Sequence>
+          </ActivityAction>
+        </uix:NApplicationCard.Body>
+        <uix:NApplicationCard.TargetApp>
+          <uix:TargetApp Area="-9, -9, 1938, 1038" BrowserType="Edge" ContentHash="48NvIiFJPEy0PkZ3FJXICw" IconBase64="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" InformativeScreenshot="4468e1780835e16115f3a99d4684132c.jpg" Reference="wPjDqxuGMU6Dr--n38mabg/slu1XZxCDUSYMIjigQzMSA" Selector="&lt;html app='msedge.exe' title='Dólar Estadounidense a Peso Colombiano conversión - CUEX' /&gt;" Url="https://cuex.com/es/usd-cop" Version="V2" />
+        </uix:NApplicationCard.TargetApp>
+      </uix:NApplicationCard>
+    </Sequence>
+  </Sequence>
+</Activity>

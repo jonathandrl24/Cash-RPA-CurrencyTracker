@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JysyTuR_iUaAOeCoy8nAxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cuex.com/es/usd-cop" CVScreenId="c00d533e-1bf6-47dd-b179-fb0ddf869df9" CvElementArea="979, 378, 31, 32" CvTextArea="772, 376, 204, 33" CvTextArgument="COP 4.155,51" CvType="ArrowButton" DesignTimeRectangle="758, 361, 260, 63" DesignTimeScaleFactor="1.25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='section-content' tag='BUTTON' type='button' class='btn btn-default dropdown-toggle exchange-dropdown exchange-to-noborder notranslate' /&gt;" Guid="eae7ff3e-cb9a-4f97-a37a-22561b591ea0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Dólar Estadounidense a Peso Colombiano conversión - CUEX' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="20ad3406b88c706b4c1dff959f1936a9.png" xmlns="">0AOMvDfWBDkW8bCOCh3RUzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "COP 4.155,51",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "KOqvguIUBU2yqrRvk9RErQ",
+  "Reference": "wPjDqxuGMU6Dr--n38mabg/KOqvguIUBU2yqrRvk9RErQ",
+  "ParentRef": "wPjDqxuGMU6Dr--n38mabg/slu1XZxCDUSYMIjigQzMSA",
+  "Created": "2025-03-13T01:00:45.7996703Z",
+  "Updated": "2025-03-13T01:00:45.7996703Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
