@@ -50,7 +50,7 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\njsonschema\\10.5.2\\lib/netstandard2.0/NJsonSchema.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\nlog\\4.7.15\\lib/netstandard2.0/NLog.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\radcommons.core\\2.0.1\\lib/netstandard2.0/net.adamec.lib.common.core.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.4.2\\lib/net6.0/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20250124.2\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\system.componentmodel.composition\\6.0.0\\lib/net6.0/System.ComponentModel.Composition.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\system.componentmodel.composition.registration\\6.0.0\\lib/net6.0/System.ComponentModel.Composition.Registration.dll",
@@ -112,9 +112,9 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath\\25.2.124.372-preview\\lib/net6.0-windows7.0/UiPath.Interop.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.7\\lib/net6.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/Emgu.CV.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/concrt140.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/cvextern.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/Emgu.CV.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/libusb-1.0.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib/net6.0/msvcp140_1.dll",
@@ -138,26 +138,107 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.Wizards.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.CV.Activities.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.CV.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationCore.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.API.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.ExternalIntegrations.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime.design\\25.2.1-preview\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Runtime.Design.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.design.recoverypanel\\25.2.1-preview\\lib/net6.0/UiPath.UIAutomation.Design.RecoveryPanel.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Core.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib/net6.0-windows7.0/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities\\25.2.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.25.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\closedxml\\0.100.3\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\irony.netcore\\1.0.11\\lib/netstandard1.6/Irony.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.2\\lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OOXML.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.4.2\\lib/net6.0/ICSharpCode.SharpZipLib.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib/netcoreapp3.1/SixLabors.Fonts.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.codedworkflows\\24.10.1\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.API.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.ViewModels.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.PowerPoint.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/OFFICE.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib/net6.0-windows7.0/UiPath.OfficeLibs.Package.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.opentelemetry.contracts\\2.3.3\\lib/netstandard2.0/UiPath.OpenTelemetry.Contracts.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.platform\\24.12.3\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.telemetry.client\\2.3.3\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\xlparser\\1.5.2\\lib/netstandard1.6/XLParser.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "ClosedXML": {
+      "Id": "ClosedXML",
+      "Version": "0.100.3",
+      "Dependencies": [
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.16.0, )"
+        },
+        {
+          "Item1": "ExcelNumberFormat",
+          "Item2": "[1.1.0, )"
+        },
+        {
+          "Item1": "Microsoft.CSharp",
+          "Item2": "[4.7.0, )"
+        },
+        {
+          "Item1": "SixLabors.Fonts",
+          "Item2": "[1.0.0-beta18, )"
+        },
+        {
+          "Item1": "System.Buffers",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.IO.Packaging",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Memory",
+          "Item2": "[4.5.4, )"
+        },
+        {
+          "Item1": "XLParser",
+          "Item2": "[1.5.2, )"
+        }
+      ]
+    },
     "CsvHelper": {
       "Id": "CsvHelper",
       "Version": "16.0.0",
@@ -168,6 +249,16 @@
         }
       ]
     },
+    "DocumentFormat.OpenXml": {
+      "Id": "DocumentFormat.OpenXml",
+      "Version": "2.16.0",
+      "Dependencies": [
+        {
+          "Item1": "System.IO.Packaging",
+          "Item2": "[4.7.0, )"
+        }
+      ]
+    },
     "DynamicExpresso.Core": {
       "Id": "DynamicExpresso.Core",
       "Version": "2.12.0",
@@ -175,6 +266,41 @@
         {
           "Item1": "Microsoft.CSharp",
           "Item2": "[4.7.0, )"
+        }
+      ]
+    },
+    "ExcelNumberFormat": {
+      "Id": "ExcelNumberFormat",
+      "Version": "1.1.0",
+      "Dependencies": []
+    },
+    "Irony.NetCore": {
+      "Id": "Irony.NetCore",
+      "Version": "1.0.11",
+      "Dependencies": [
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        },
+        {
+          "Item1": "System.Reflection",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.Lightweight",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Extensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Reflection.TypeExtensions",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "System.Runtime.Numerics",
+          "Item2": "[4.3.0, )"
         }
       ]
     },
@@ -1212,9 +1338,36 @@
       "Version": "4.7.15",
       "Dependencies": []
     },
+    "NPOI": {
+      "Id": "NPOI",
+      "Version": "2.5.6",
+      "Dependencies": [
+        {
+          "Item1": "System.Configuration.ConfigurationManager",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[4.5.0, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.3.3, )"
+        },
+        {
+          "Item1": "Portable.BouncyCastle",
+          "Item2": "[1.8.9, )"
+        }
+      ]
+    },
     "Polly": {
       "Id": "Polly",
       "Version": "7.1.0",
+      "Dependencies": []
+    },
+    "Portable.BouncyCastle": {
+      "Id": "Portable.BouncyCastle",
+      "Version": "1.8.9",
       "Dependencies": []
     },
     "RadCommons.core": {
@@ -1470,7 +1623,12 @@
     },
     "SharpZipLib": {
       "Id": "SharpZipLib",
-      "Version": "1.3.3",
+      "Version": "1.4.2",
+      "Dependencies": []
+    },
+    "SixLabors.Fonts": {
+      "Id": "SixLabors.Fonts",
+      "Version": "1.0.0-beta18",
       "Dependencies": []
     },
     "System.Activities.ViewModels": {
@@ -1490,29 +1648,8 @@
     },
     "System.Buffers": {
       "Id": "System.Buffers",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Diagnostics.Debug",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Diagnostics.Tracing",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Resources.ResourceManager",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Threading",
-          "Item2": "[4.3.0, )"
-        }
-      ]
+      "Version": "4.5.1",
+      "Dependencies": []
     },
     "System.CodeDom": {
       "Id": "System.CodeDom",
@@ -3812,6 +3949,72 @@
         }
       ]
     },
+    "UiPath.Excel.Activities": {
+      "Id": "UiPath.Excel.Activities",
+      "Version": "2.25.1-preview",
+      "Dependencies": [
+        {
+          "Item1": "ClosedXML",
+          "Item2": "[0.100.3, )"
+        },
+        {
+          "Item1": "CsvHelper",
+          "Item2": "[15.0.5, )"
+        },
+        {
+          "Item1": "DocumentFormat.OpenXml",
+          "Item2": "[2.16.0, )"
+        },
+        {
+          "Item1": "NPOI",
+          "Item2": "[2.5.6, )"
+        },
+        {
+          "Item1": "SharpZipLib",
+          "Item2": "[1.4.2, )"
+        },
+        {
+          "Item1": "System.Drawing.Common",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Formats.Asn1",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "System.IO.Packaging",
+          "Item2": "[6.0.1, )"
+        },
+        {
+          "Item1": "System.Net.Http",
+          "Item2": "[4.3.4, )"
+        },
+        {
+          "Item1": "System.Text.Encoding.CodePages",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "System.Text.RegularExpressions",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "UiPath.CodedWorkflows",
+          "Item2": "[24.10.1, )"
+        },
+        {
+          "Item1": "UiPath.OfficeLibs",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.10.3, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.1.3, )"
+        }
+      ]
+    },
     "UiPath.ImageProcessing": {
       "Id": "UiPath.ImageProcessing",
       "Version": "23.4.0",
@@ -3880,6 +4083,11 @@
           "Item2": "[5.0.3, )"
         }
       ]
+    },
+    "UiPath.OfficeLibs": {
+      "Id": "UiPath.OfficeLibs",
+      "Version": "1.0.0",
+      "Dependencies": []
     },
     "UiPath.OpenTelemetry.Contracts": {
       "Id": "UiPath.OpenTelemetry.Contracts",
@@ -4188,9 +4396,33 @@
           "Item2": "[1.3.0, )"
         }
       ]
+    },
+    "XLParser": {
+      "Id": "XLParser",
+      "Version": "1.5.2",
+      "Dependencies": [
+        {
+          "Item1": "Irony.NetCore",
+          "Item2": "[1.0.11, )"
+        },
+        {
+          "Item1": "NETStandard.Library",
+          "Item2": "[1.6.1, )"
+        }
+      ]
     }
   },
   "AllPackages": [
+    {
+      "Package": {
+        "Id": "ClosedXML",
+        "Version": "0.100.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\closedxml\\0.100.3\\lib\\netstandard2.0\\ClosedXML.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\closedxml\\0.100.3"
+    },
     {
       "Package": {
         "Id": "CsvHelper",
@@ -4203,6 +4435,16 @@
     },
     {
       "Package": {
+        "Id": "DocumentFormat.OpenXml",
+        "Version": "2.16.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\documentformat.openxml\\2.16.0\\lib\\netstandard2.0\\DocumentFormat.OpenXml.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\documentformat.openxml\\2.16.0"
+    },
+    {
+      "Package": {
         "Id": "DynamicExpresso.Core",
         "Version": "2.12.0"
       },
@@ -4210,6 +4452,26 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\dynamicexpresso.core\\2.12.0\\lib\\netstandard2.0\\DynamicExpresso.Core.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\dynamicexpresso.core\\2.12.0"
+    },
+    {
+      "Package": {
+        "Id": "ExcelNumberFormat",
+        "Version": "1.1.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\excelnumberformat\\1.1.0\\lib\\netstandard2.0\\ExcelNumberFormat.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\excelnumberformat\\1.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Irony.NetCore",
+        "Version": "1.0.11"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\irony.netcore\\1.0.11\\lib\\netstandard1.6\\Irony.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\irony.netcore\\1.0.11"
     },
     {
       "Package": {
@@ -4768,6 +5030,19 @@
     },
     {
       "Package": {
+        "Id": "NPOI",
+        "Version": "2.5.6"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib\\netstandard2.1\\NPOI.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib\\netstandard2.1\\NPOI.OOXML.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib\\netstandard2.1\\NPOI.OpenXml4Net.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6\\lib\\netstandard2.1\\NPOI.OpenXmlFormats.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\npoi\\2.5.6"
+    },
+    {
+      "Package": {
         "Id": "Polly",
         "Version": "7.1.0"
       },
@@ -4775,6 +5050,16 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\polly\\7.1.0"
+    },
+    {
+      "Package": {
+        "Id": "Portable.BouncyCastle",
+        "Version": "1.8.9"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\portable.bouncycastle\\1.8.9\\lib\\netstandard2.0\\BouncyCastle.Crypto.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\portable.bouncycastle\\1.8.9"
     },
     {
       "Package": {
@@ -5247,12 +5532,22 @@
     {
       "Package": {
         "Id": "SharpZipLib",
-        "Version": "1.3.3"
+        "Version": "1.4.2"
       },
       "Assemblies": [
-        "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.3.3\\lib\\netstandard2.1\\ICSharpCode.SharpZipLib.dll"
+        "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.4.2\\lib\\net6.0\\ICSharpCode.SharpZipLib.dll"
       ],
-      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.3.3"
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\sharpziplib\\1.4.2"
+    },
+    {
+      "Package": {
+        "Id": "SixLabors.Fonts",
+        "Version": "1.0.0-beta18"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18\\lib\\netcoreapp3.1\\SixLabors.Fonts.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta18"
     },
     {
       "Package": {
@@ -5277,12 +5572,12 @@
     {
       "Package": {
         "Id": "System.Buffers",
-        "Version": "4.3.0"
+        "Version": "4.5.1"
       },
       "Assemblies": [
-        "C:\\Users\\jonathan\\.nuget\\packages\\system.buffers\\4.3.0\\lib\\netstandard1.1\\System.Buffers.dll"
+        "C:\\Users\\jonathan\\.nuget\\packages\\system.buffers\\4.5.1\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\system.buffers\\4.3.0"
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\system.buffers\\4.5.1"
     },
     {
       "Package": {
@@ -6367,9 +6662,9 @@
         "Version": "1.3.0"
       },
       "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\Emgu.CV.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\concrt140.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\cvextern.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\Emgu.CV.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\libusb-1.0.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\msvcp140_1.dll",
@@ -6380,6 +6675,21 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0\\lib\\net6.0\\vcruntime140_1.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.emgucvbundle\\1.3.0"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Excel.Activities",
+        "Version": "2.25.1-preview"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.API.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Design.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.Activities.ViewModels.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview\\lib\\net6.0-windows7.0\\UiPath.Excel.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.excel.activities\\2.25.1-preview"
     },
     {
       "Package": {
@@ -6412,6 +6722,22 @@
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.ocr.contracts\\2.17.1-preview\\lib\\net6.0-windows7.0\\UiPath.OCR.Contracts.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.ocr.contracts\\2.17.1-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.OfficeLibs",
+        "Version": "1.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.Excel.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.PowerPoint.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\Microsoft.Vbe.Interop.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\OFFICE.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0\\lib\\net6.0-windows7.0\\UiPath.OfficeLibs.Package.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.officelibs\\1.0.0"
     },
     {
       "Package": {
@@ -6498,13 +6824,13 @@
       "Assemblies": [
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.CV.Activities.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.CV.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationCore.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.Contracts.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.Activities.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.API.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.ExternalIntegrations.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UIAutomationNext.ExternalIntegrations.dll"
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview\\lib\\net6.0-windows7.0\\UiPath.UiAutomation.Activities.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.uiautomation.activities.runtime\\25.2.1-preview"
     },
@@ -6536,11 +6862,21 @@
       "Assemblies": [
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Core.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.dll",
         "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.GoogleCloud.dll",
-        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview\\lib\\net6.0-windows7.0\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\jonathan\\.nuget\\packages\\uipath.vision\\3.15.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "XLParser",
+        "Version": "1.5.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\jonathan\\.nuget\\packages\\xlparser\\1.5.2\\lib\\netstandard1.6\\XLParser.dll"
+      ],
+      "Path": "C:\\Users\\jonathan\\.nuget\\packages\\xlparser\\1.5.2"
     }
   ]
 }

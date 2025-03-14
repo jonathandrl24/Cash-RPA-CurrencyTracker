@@ -12,7 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "vStrdolar&Sequence_6"
+        "outputElement&Sequence_3",
+        "vStrdolar&Sequence_2",
+        "vStreuro&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],

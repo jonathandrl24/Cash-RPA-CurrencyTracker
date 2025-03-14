@@ -4,6 +4,7 @@
   "description": "AUTOMATIZACION DE TASA REPRESENTATIVA DEL MERCADO",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Excel.Activities": "[2.25.1-preview]",
     "UiPath.System.Activities": "[25.2.1]",
     "UiPath.UIAutomation.Activities": "[25.2.1-preview]"
   },
