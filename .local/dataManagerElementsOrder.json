@@ -12,6 +12,11 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "vIntLastEuro&Sequence_2",
+        "vIntFirstEuro&Sequence_2",
+        "Google&Sequence_2",
+        "vIntLastDolar&Sequence_2",
+        "vIntFirstDolar&Sequence_2",
         "outputElement&Sequence_3",
         "vStrdolar&Sequence_2",
         "vStreuro&Sequence_2"

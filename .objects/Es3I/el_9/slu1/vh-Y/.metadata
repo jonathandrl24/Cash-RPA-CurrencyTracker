@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tipo de Cambio 4.512,24…",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "vh-YUbSB4kmsX0R2ELFHBA",
+  "Reference": "wPjDqxuGMU6Dr--n38mabg/vh-YUbSB4kmsX0R2ELFHBA",
+  "ParentRef": "wPjDqxuGMU6Dr--n38mabg/slu1XZxCDUSYMIjigQzMSA",
+  "Created": "2025-03-20T19:06:00.7104999Z",
+  "Updated": "2025-03-20T19:06:00.7104999Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

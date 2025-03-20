@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NpdMFDTsME2bicwKF3aSwQ" Reference="wPjDqxuGMU6Dr--n38mabg/vh-YUbSB4kmsX0R2ELFHBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cuex.com/es/eur-cop" CVScreenId="252255a4-6a74-48a4-a98d-e6e1936d9431" CvElementArea="638, 661, 289, 46" CvType="InputBox" DesignTimeRectangle="641, 539, 285, 43" DesignTimeScaleFactor="1.25" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl type='text' tag='INPUT' class='form-control ng-untouched ng-pristine ng-valid' placeholder='Datepicker' aaname='' /&gt;" Guid="c6bb72d9-1a29-40a4-a407-1741e5c040cb" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Euro a Peso Colombiano conversión - CUEX' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="27faf0c795407f4d1f233d7e3ee6db3a.png" xmlns="">0VFWDujuWq0aoEf_EGcqhMw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
